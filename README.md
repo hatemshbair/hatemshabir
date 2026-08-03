@@ -1,121 +1,157 @@
 <h1 align="center">Hi 👋, I'm Hatem Shbair</h1>
 
-<h3 align="center">💻 Backend Laravel Developer | PHP Developer</h3>
+<h3 align="center">🚀 PHP & Laravel Backend Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/hatemshbair">
-    <img src="https://komarev.com/ghpvc/?username=hatemshbair&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hatemshbair&label=Profile%20Views&color=red&style=flat" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Hatem Shbair**, a passionate **Backend Developer** focused on building reliable, scalable, and maintainable web applications using **PHP and Laravel**.
+I'm **Hatem Shbair**, a **Backend Developer** specialized in **PHP and Laravel**.
 
-I enjoy designing backend systems, working with databases, developing RESTful APIs, and solving real-world programming problems.
+I focus on developing reliable and scalable backend applications, building RESTful APIs, designing databases, and implementing clean backend architecture.
 
-* 🔭 Currently focusing on **Backend Development with Laravel**
-* 💻 Building web applications and **RESTful APIs**
-* 🗄️ Working with **MySQL & Eloquent ORM**
-* 🔐 Interested in authentication, authorization & API security
-* 🔧 Using Git & GitHub for version control
-* 🚀 Continuously learning modern backend technologies
-* 🎯 Looking for opportunities as a **Backend / Laravel Developer**
+* 🔥 Specialized in **PHP & Laravel**
+* 🗄️ Working with **MySQL**
+* 🔌 Building **RESTful APIs**
+* 🔐 Authentication & Authorization
+* 🧩 Laravel MVC Architecture
+* 🗃️ Eloquent ORM & Database Relationships
+* 🛠️ Git & GitHub
+* 📦 Composer & Laravel ecosystem
+* 🚀 Continuously improving my backend development skills
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Backend Tech Stack
 
-### Backend
+<p align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,github,postman" />
+
 </p>
 
-### Database
+### Core Technologies
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-
-
-### Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,composer" />
-</p>
-
----
-
-## ⚡ Skills
-
-```text
-PHP                    ███████████████████░   90%
-Laravel                ███████████████████░   90%
-MySQL                  ██████████████████░░   85%
-REST APIs              █████████████████░░░   80%
-Git & GitHub           █████████████████░░░   80%
-
+| Technology          | Focus                          |
+| ------------------- | ------------------------------ |
+| 🐘 **PHP**          | Backend Development            |
+| 🔥 **Laravel**      | Web Applications & APIs        |
+| 🗄️ **MySQL**       | Database Design & Management   |
+| 🧩 **Eloquent ORM** | Models & Relationships         |
+| 🔌 **REST API**     | API Development                |
+| 🔐 **Laravel Auth** | Authentication & Authorization |
+| 📦 **Composer**     | PHP Dependency Management      |
+| 🌿 **Git / GitHub** | Version Control                |
+| 🧪 **Postman**      | API Testing                    |
 
 ---
 
-## 🚀 What I Can Build
+## 🔥 Laravel Skills
 
-* 🌐 Laravel Web Applications
-* 🔌 RESTful APIs
-* 🔐 Authentication & Authorization Systems
-* 🗄️ Database-driven Applications
-* 🛒 E-Commerce Backends
-* 👤 User Management Systems
-* 📦 CRUD Applications
-* 📊 Admin Dashboards
-* 🔗 API Integrations
-* ⚙️ Backend Business Logic
+* Laravel MVC Architecture
+* Routing
+* Controllers
+* Models
+* Eloquent ORM
+* Migrations
+* Seeders & Factories
+* Database Relationships
+* CRUD Operations
+* Form Requests & Validation
+* Authentication
+* Authorization
+* Middleware
+* API Resources
+* RESTful APIs
+* Laravel Sanctum
+* File Uploads
+* Storage
+* Sessions
+* Error Handling
+* Environment Configuration
+* Composer
 
 ---
 
-## 📌 Featured Projects
+## 🗄️ Database Skills
 
-### 🛒 E-Commerce Laravel Application
+### MySQL
 
-A full-stack e-commerce project developed with Laravel and MySQL.
+* Database Design
+* Tables & Relationships
+* Primary & Foreign Keys
+* One-to-One Relationships
+* One-to-Many Relationships
+* Many-to-Many Relationships
+* SQL Queries
+* Joins
+* Indexing
+* Laravel Migrations
+* Eloquent Relationships
+
+---
+
+## 🚀 Backend Projects
+
+### 🛒 Laravel E-Commerce API
+
+Backend system developed using **PHP, Laravel and MySQL**.
+
+**Main Features:**
+
+* User Authentication
+* User Management
+* Products
+* Categories
+* CRUD Operations
+* Database Relationships
+* API Endpoints
+* Request Validation
+* Authentication & Authorization
+
+**Technologies:**
+
+`PHP` `Laravel` `MySQL` `Eloquent ORM` `REST API`
+
+---
+
+### 📚 Laravel Bookstore
+
+Backend application for managing books and categories.
 
 **Features:**
 
-* User authentication
-* Product management
+* Authentication
+* Books Management
 * Categories
-* Shopping cart
-* Database relationships
-* Admin management
+* CRUD Operations
+* Database Relationships
+* API Development
 
-**Tech:** `Laravel` `PHP` `MySQL`
----
+**Technologies:**
 
-### 📚 Virtual Bookstore
-
-A web application for managing and displaying books with a Laravel backend.
-
-**Tech:** `Laravel` `PHP` `MySQL` `HTML` `CSS` `Bootstrap`
+`PHP` `Laravel` `MySQL`
 
 ---
 
-### 🌐 Company Management Website
-
-A professional web application designed to present company services and manage website content.
-
-**Tech:** `Laravel` `PHP` `MySQL` `JavaScript` `Bootstrap`
-
----
-
-## 📊 GitHub Statistics
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hatemshbair&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatemshbair&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hatemshbair&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatemshbair&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -128,34 +164,20 @@ A professional web application designed to present company services and manage w
 
 ---
 
-## 🐍 Contribution Graph
+## 📫 Contact
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hatemshbair/hatemshbair/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+
+<a href="https://github.com/hatemshbair">
+<img src="https://img.shields.io/badge/GitHub-Hatem%20Shbair-181717?style=for-the-badge&logo=github" />
+</a>
+
 </p>
 
 ---
 
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/hatemshbair">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 💡 My Development Philosophy
-
-> **"Write clean code. Build useful things. Keep learning."**
-
-I'm always open to learning new technologies, collaborating on interesting projects, and growing as a **Backend Developer**.
-
----
-
-<h3 align="center">🚀 Thanks for visiting my profile!</h3>
+<h3 align="center">🐘 PHP • 🔥 Laravel • 🗄️ MySQL</h3>
 
 <p align="center">
-  <b>Let's build something amazing together.</b>
+  <b>Backend Developer focused on building clean and scalable applications.</b>
 </p>
