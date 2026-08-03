@@ -40,11 +40,7 @@ I enjoy designing backend systems, working with databases, developing RESTful AP
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-</p>
 
 ### Tools & Technologies
 
@@ -62,10 +58,7 @@ Laravel                ███████████████████
 MySQL                  ██████████████████░░   85%
 REST APIs              █████████████████░░░   80%
 Git & GitHub           █████████████████░░░   80%
-JavaScript             ██████████████░░░░░░   70%
-HTML & CSS             ███████████████░░░░░   75%
-Bootstrap              ███████████████░░░░░   75%
-```
+
 
 ---
 
@@ -99,8 +92,7 @@ A full-stack e-commerce project developed with Laravel and MySQL.
 * Database relationships
 * Admin management
 
-**Tech:** `Laravel` `PHP` `MySQL` `Bootstrap`
-
+**Tech:** `Laravel` `PHP` `MySQL`
 ---
 
 ### 📚 Virtual Bookstore
